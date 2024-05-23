@@ -27,5 +27,7 @@ Collection of the awesome AI tools:
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 
+[![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
+
 ## Contribution
 Please add a YAML file in the directory [data](data) if you want to contribute.
