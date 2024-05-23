@@ -8,7 +8,11 @@ Collection of the awesome AI tools:
 | Name | Creator |
 |---|---|
 | [ChatGLM](https://chatglm.cn/) | Unknown |
+| [ChatGPT](https://chat.openai.com/) | OpenAI |
+| [零一万物](https://platform.lingyiwanwu.com/playground) | 零一万物 |
 | [TongYi](https://www.tongyi.com/) | AliYun |
+| [讯飞星火](https://xinghuo.xfyun.cn/) | 科大讯飞 |
+| [文心一言](https://yiyan.baidu.com/) | 百度 |
 
 
 ## CodeAssistant
