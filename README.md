@@ -21,6 +21,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [Amazon Q](https://www.amazon.com/q/) | Amazon |
 | [Copilot](https://github.com/features/copilot) | GitHub |
 | [腾讯云 AI 代码助手](https://cloud.tencent.com/product/acc) | Tencent |
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
