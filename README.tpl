@@ -13,5 +13,7 @@ Collection of the awesome AI tools:
 {{- end}}
 {{end}}
 
+{{printStarHistory "linuxsuren" "awesome-ai"}}
+
 ## Contribution
 Please add a YAML file in the directory [data](data) if you want to contribute.
