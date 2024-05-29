@@ -35,6 +35,13 @@ Collection of the awesome AI tools:
 | [Ollama](https://github.com/ollama/ollama) | Unknown |
 
 
+## Search Engine
+
+| Name | Creator |
+|---|---|
+| [Devv AI](https://devv.ai/) | Unknown |
+
+
 [![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
 
 ## Contribution
