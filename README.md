@@ -28,6 +28,13 @@ Collection of the awesome AI tools:
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 
+## Develop Tool
+
+| Name | Creator |
+|---|---|
+| [ai-commit](https://github.com/insulineru/ai-commit) |  |
+
+
 ## Local
 
 | Name | Creator |
