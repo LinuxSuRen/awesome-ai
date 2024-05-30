@@ -33,6 +33,7 @@ Collection of the awesome AI tools:
 | Name | Creator |
 |---|---|
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
+| [aicommits](https://github.com/Nutlope/aicommits) |  |
 
 
 ## Local
