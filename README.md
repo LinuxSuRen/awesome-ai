@@ -43,6 +43,13 @@ Collection of the awesome AI tools:
 | [Ollama](https://github.com/ollama/ollama) | Unknown |
 
 
+## Other
+
+| Name | Creator |
+|---|---|
+| [扣子](https://www.coze.cn/model/arena) |  |
+
+
 ## Search Engine
 
 | Name | Creator |
