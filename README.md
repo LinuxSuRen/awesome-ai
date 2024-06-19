@@ -34,6 +34,7 @@ Collection of the awesome AI tools:
 |---|---|
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
+| [码思Code](https://www.marscode.cn/) |  |
 
 
 ## Local
