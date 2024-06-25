@@ -51,6 +51,13 @@ Collection of the awesome AI tools:
 | [扣子](https://www.coze.cn/model/arena) |  |
 
 
+## Search
+
+| Name | Creator |
+|---|---|
+| [Genspark](https://www.genspark.ai/) |  |
+
+
 ## Search Engine
 
 | Name | Creator |
