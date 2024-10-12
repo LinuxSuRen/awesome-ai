@@ -10,6 +10,7 @@ Collection of the awesome AI tools:
 | [ChatGLM](https://chatglm.cn/) | Unknown |
 | [ChatGPT](https://chat.openai.com/) | OpenAI |
 | [海螺 AI](https://hailuoai.com/) | Unknown |
+| [Kimi](https://kimi.moonshot.cn/) |  |
 | [零一万物](https://platform.lingyiwanwu.com/playground) | 零一万物 |
 | [TongYi](https://www.tongyi.com/) | AliYun |
 | [万知](https://www.wanzhi.com/) | 零一万物 |
