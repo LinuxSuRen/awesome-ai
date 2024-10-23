@@ -66,6 +66,13 @@ Collection of the awesome AI tools:
 | [Devv AI](https://devv.ai/) | Unknown |
 
 
+## Text to Image
+
+| Name | Creator |
+|---|---|
+| [flux](https://flux-ai.io/) |  |
+
+
 [![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
 
 ## Contribution
