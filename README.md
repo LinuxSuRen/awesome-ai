@@ -35,6 +35,7 @@ Collection of the awesome AI tools:
 |---|---|
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
+| [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [码思Code](https://www.marscode.cn/) |  |
 
 
