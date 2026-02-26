@@ -71,6 +71,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [AI Image Lab](https://aiimagelab.art/) |  |
 | [flux](https://flux-ai.io/) |  |
 
 
