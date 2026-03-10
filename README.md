@@ -57,6 +57,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
 | [Genspark](https://www.genspark.ai/) |  |
 
 
