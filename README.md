@@ -65,6 +65,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [AI Hotlist](https://aihot.bt199.com/) | 老实人实验室 |
 | [Devv AI](https://devv.ai/) | Unknown |
 
 
