@@ -51,6 +51,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [Aurcue](https://www.aurcue.com) |  |
 | [扣子](https://www.coze.cn/model/arena) |  |
 
 
