@@ -38,6 +38,7 @@ Collection of the awesome AI tools:
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [码思Code](https://www.marscode.cn/) |  |
+| [Xquik](https://docs.xquik.com/) | Xquik |
 
 
 ## Local
