@@ -38,6 +38,7 @@ Collection of the awesome AI tools:
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [码思Code](https://www.marscode.cn/) |  |
+| [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 
