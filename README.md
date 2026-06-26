@@ -8,7 +8,7 @@ Collection of the awesome AI tools:
 | Name | Creator |
 |---|---|
 | [ChatGLM](https://chatglm.cn/) | Unknown |
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e |
 | [ChatGPT](https://chat.openai.com/) | OpenAI |
 | [海螺 AI](https://hailuoai.com/) | Unknown |
 | [Kimi](https://kimi.moonshot.cn/) |  |
