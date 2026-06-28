@@ -81,6 +81,7 @@ Collection of the awesome AI tools:
 |---|---|
 | [AI Image Lab](https://aiimagelab.art/) |  |
 | [flux](https://flux-ai.io/) |  |
+| [HairWow](https://www.gohairwow.com/) |  |
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
