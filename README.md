@@ -58,7 +58,10 @@ Collection of the awesome AI tools:
 |---|---|
 | [Aurcue](https://www.aurcue.com) |  |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [Image Describer](https://imagedescriber.dev) |  |
 | [Remio](https://remio.ai/) |  |
+| [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
+| [Video Upscaler](https://videoupscaler.video) |  |
 
 
 ## Search
