@@ -7,6 +7,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [CharaVox](https://charavox.com) | AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM. |
 | [ChatGLM](https://chatglm.cn/) | Unknown |
 | [ChatGPT](https://chat.openai.com/) | OpenAI |
 | [海螺 AI](https://hailuoai.com/) | Unknown |
