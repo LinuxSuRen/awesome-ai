@@ -43,6 +43,7 @@ Collection of the awesome AI tools:
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [Xquik](https://docs.xquik.com/) | Xquik |
+| [YingTu](https://yingtu.ai/en) | YingTu |
 
 
 ## Local
@@ -63,6 +64,7 @@ Collection of the awesome AI tools:
 | [Remio](https://remio.ai/) |  |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
+| [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 
 ## Search
