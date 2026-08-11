@@ -41,6 +41,7 @@ Collection of the awesome AI tools:
 | [码思Code](https://www.marscode.cn/) |  |
 | [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio |
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
@@ -90,6 +91,7 @@ Collection of the awesome AI tools:
 | [AI Image Lab](https://aiimagelab.art/) |  |
 | [flux](https://flux-ai.io/) |  |
 | [HairWow](https://www.gohairwow.com/) |  |
+| [Rao Edits](https://raoedits.top/) |  |
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
