@@ -72,6 +72,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [AISO Tools](https://aisotools.com) |  |
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
 | [Genspark](https://www.genspark.ai/) |  |
 
