@@ -76,6 +76,7 @@ Collection of the awesome AI tools:
 | [AISO Tools](https://aisotools.com) |  |
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
 | [Genspark](https://www.genspark.ai/) |  |
+| [IdeaHunter](https://ideahunter.today/) |  |
 
 
 ## Search Engine
