@@ -33,6 +33,7 @@ Collection of the awesome AI tools:
 
 | Name | Creator |
 |---|---|
+| [Agent QA](https://github.com/vostride/agent-qa) | Vostride |
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
