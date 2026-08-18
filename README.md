@@ -66,6 +66,7 @@ Collection of the awesome AI tools:
 | [Remio](https://remio.ai/) |  |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
+| [video text remover](https://fastmoroai.com/tools/video-text-remover) | FastMoroAI |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 
