@@ -1,0 +1,5 @@
+name: SandBase CLI
+link: https://github.com/sandbaseai/cli
+kind: Develop Tool
+creator: SandBase AI
+description: Open-source CLI and local MCP bridge for discovering and running AI models through one API.
