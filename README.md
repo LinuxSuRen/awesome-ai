@@ -46,6 +46,7 @@ Collection of the awesome AI tools:
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
+| [YYLO](https://github.com/yylo-dev/yylo) | yylo-dev |
 
 
 ## Local
