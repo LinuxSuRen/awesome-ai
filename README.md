@@ -47,6 +47,7 @@ Collection of the awesome AI tools:
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
 | [YYLO](https://github.com/yylo-dev/yylo) | yylo-dev |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Continuum-AI-Corp |
 
 
 ## Local
