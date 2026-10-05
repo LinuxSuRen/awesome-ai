@@ -17,6 +17,7 @@ Collection of the awesome AI tools:
 | [讯飞星火](https://xinghuo.xfyun.cn/) | 科大讯飞 |
 | [文心一言](https://yiyan.baidu.com/) | 百度 |
 | [跃问](https://yuewen.cn/chats/) | 阶跃星辰 |
+| [AI Group Call](https://aigroupcall.app) | An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak. |
 
 
 ## CodeAssistant
