@@ -10,6 +10,7 @@ Collection of the awesome AI tools:
 | [ChatGLM](https://chatglm.cn/) | Unknown |
 | [ChatGPT](https://chat.openai.com/) | OpenAI |
 | [海螺 AI](https://hailuoai.com/) | Unknown |
+| [Honer AI](https://xoner4.github.io/) | HONER |
 | [Kimi](https://kimi.moonshot.cn/) |  |
 | [零一万物](https://platform.lingyiwanwu.com/playground) | 零一万物 |
 | [TongYi](https://www.tongyi.com/) | AliYun |
@@ -105,6 +106,7 @@ Collection of the awesome AI tools:
 | [HairWow](https://www.gohairwow.com/) |  |
 | [Lunalisa](https://luna-lisa.art) | Lunalisa |
 | [Rao Edits](https://raoedits.top/) |  |
+| [Raphael](https://raphael.app) | Raphael AI |
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linuxsuren/awesome-ai&amp;type=Date)](https://star-history.com/#linuxsuren/awesome-ai&amp;Date)
