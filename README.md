@@ -14,6 +14,7 @@ Collection of the awesome AI tools:
 | [零一万物](https://platform.lingyiwanwu.com/playground) | 零一万物 |
 | [TongYi](https://www.tongyi.com/) | AliYun |
 | [万知](https://www.wanzhi.com/) | 零一万物 |
+| [WSUP AI](https://wsupai.app/) | Ownland |
 | [讯飞星火](https://xinghuo.xfyun.cn/) | 科大讯飞 |
 | [文心一言](https://yiyan.baidu.com/) | 百度 |
 | [跃问](https://yuewen.cn/chats/) | 阶跃星辰 |
@@ -44,6 +45,7 @@ Collection of the awesome AI tools:
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
+| [Tale](https://github.com/tale-project/tale) | Tale |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
 | [YYLO](https://github.com/yylo-dev/yylo) | yylo-dev |
@@ -63,8 +65,13 @@ Collection of the awesome AI tools:
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
 | [Aurcue](https://www.aurcue.com) |  |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
+| [kdpbook.io](https://kdpbook.io) | Arsène Huot |
+| [Magic Hour](https://magichour.ai/) | Magic Hour |
 | [Remio](https://remio.ai/) |  |
+| [Screenpipe](https://screenpipe.com/) | Screenpipe |
+| [StudyArena](https://studyarena.com) |  |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
@@ -85,6 +92,7 @@ Collection of the awesome AI tools:
 | Name | Creator |
 |---|---|
 | [AI Hotlist](https://aihot.bt199.com/) | 老实人实验室 |
+| [AI Tools Radar](https://aitoolsradar.com/) | AI Tools Radar |
 | [Devv AI](https://devv.ai/) | Unknown |
 
 
@@ -95,6 +103,7 @@ Collection of the awesome AI tools:
 | [AI Image Lab](https://aiimagelab.art/) |  |
 | [flux](https://flux-ai.io/) |  |
 | [HairWow](https://www.gohairwow.com/) |  |
+| [Lunalisa](https://luna-lisa.art) | Lunalisa |
 | [Rao Edits](https://raoedits.top/) |  |
 
 
