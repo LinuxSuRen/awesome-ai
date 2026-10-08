@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-58-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-66-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（4）
-- 🛠️ [Develop Tool](#develop-tool)（15）
-- 🏠 [Local](#local)（1）
-- 🎁 [Other](#other)（13）
+- 🛠️ [Develop Tool](#develop-tool)（16）
+- 🏠 [Local](#local)（2）
+- 🎁 [Other](#other)（19）
 - 🔍 [Search](#search)（4）
 - 🌐 [Search Engine](#search-engine)（3）
 - 🎨 [Text to Image](#text-to-image)（6）
@@ -57,7 +57,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(15)
+## 🛠️ Develop Tool(16)
 
 > 面向开发者的效率工具
 
@@ -74,37 +74,45 @@
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
+| [SkillHub](https://skillhub.cn) | 唐可创研 |
 | [Tale](https://github.com/tale-project/tale) | Tale |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
 | [YYLO](https://github.com/yylo-dev/yylo) | yylo-dev |
 
 <a id="local"></a>
-## 🏠 Local(1)
+## 🏠 Local(2)
 
 > 本地部署与私有化运行
 
 | Name | Creator |
 |---|---|
 | [Ollama](https://github.com/ollama/ollama) | Unknown |
+| [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(13)
+## 🎁 Other(19)
 
 > 其他实用 AI 服务
 
 | Name | Creator |
 |---|---|
+| [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
 | [Aurcue](https://www.aurcue.com) |  |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
+| [InnerCanvas](https://innercanvas.app) | InnerCanvas |
 | [kdpbook.io](https://kdpbook.io) | Arsène Huot |
 | [Magic Hour](https://magichour.ai/) | Magic Hour |
 | [Remio](https://remio.ai/) |  |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
+| [SocialEcho](https://www.socialecho.cn/) | SocialEcho |
 | [StudyArena](https://studyarena.com) |  |
+| [Telo](https://blynkai.app/telo/) | BlynkAI |
+| [Tudo](https://blynkai.app/tudo/) | BlynkAI |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
