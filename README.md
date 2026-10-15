@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-66-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-69-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（4）
-- 🛠️ [Develop Tool](#develop-tool)（16）
+- 🛠️ [Develop Tool](#develop-tool)（18）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（19）
+- 🎁 [Other](#other)（20）
 - 🔍 [Search](#search)（4）
 - 🌐 [Search Engine](#search-engine)（3）
 - 🎨 [Text to Image](#text-to-image)（6）
@@ -57,7 +57,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(16)
+## 🛠️ Develop Tool(18)
 
 > 面向开发者的效率工具
 
@@ -66,9 +66,11 @@
 | [Agent QA](https://github.com/vostride/agent-qa) | Vostride |
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
+| [Aident Loadout](https://aident.ai) | Aident AI |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
+| [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
 | [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio |
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
@@ -91,7 +93,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(19)
+## 🎁 Other(20)
 
 > 其他实用 AI 服务
 
@@ -100,6 +102,7 @@
 | [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
 | [Aurcue](https://www.aurcue.com) |  |
+| [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
 | [扣子](https://www.coze.cn/model/arena) |  |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
