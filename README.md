@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-69-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-71-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（4）
-- 🛠️ [Develop Tool](#develop-tool)（18）
+- 🛠️ [Develop Tool](#develop-tool)（19）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（20）
+- 🎁 [Other](#other)（21）
 - 🔍 [Search](#search)（4）
 - 🌐 [Search Engine](#search-engine)（3）
 - 🎨 [Text to Image](#text-to-image)（6）
@@ -57,7 +57,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(18)
+## 🛠️ Develop Tool(19)
 
 > 面向开发者的效率工具
 
@@ -69,6 +69,7 @@
 | [Aident Loadout](https://aident.ai) | Aident AI |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
+| [CurlShot](https://curlshot.com) | CurlShot |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
@@ -93,7 +94,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(20)
+## 🎁 Other(21)
 
 > 其他实用 AI 服务
 
@@ -104,6 +105,7 @@
 | [Aurcue](https://www.aurcue.com) |  |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
