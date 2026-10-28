@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-71-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-82-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -15,13 +15,13 @@
 
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
-- 🧑‍💻 [CodeAssistant](#codeassistant)（4）
-- 🛠️ [Develop Tool](#develop-tool)（19）
+- 🧑‍💻 [CodeAssistant](#codeassistant)（5）
+- 🛠️ [Develop Tool](#develop-tool)（21）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（21）
-- 🔍 [Search](#search)（4）
+- 🎁 [Other](#other)（26）
+- 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（3）
-- 🎨 [Text to Image](#text-to-image)（6）
+- 🎨 [Text to Image](#text-to-image)（8）
 
 
 <a id="chatbot"></a>
@@ -45,7 +45,7 @@
 | [跃问](https://yuewen.cn/chats/) | 阶跃星辰 |
 
 <a id="codeassistant"></a>
-## 🧑‍💻 CodeAssistant(4)
+## 🧑‍💻 CodeAssistant(5)
 
 > AI 编程助手与代码补全
 
@@ -53,23 +53,26 @@
 |---|---|
 | [Amazon Q](https://www.amazon.com/q/) | Amazon |
 | [Copilot](https://github.com/features/copilot) | GitHub |
+| [Orbi](https://orbi.build/?ref=dir-linuxsuren) | orbi-build |
 | [腾讯云 AI 代码助手](https://cloud.tencent.com/product/acc) | Tencent |
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(19)
+## 🛠️ Develop Tool(21)
 
 > 面向开发者的效率工具
 
 | Name | Creator |
 |---|---|
 | [Agent QA](https://github.com/vostride/agent-qa) | Vostride |
+| [AgentFEM](https://github.com/haoming-luo/agentfem) | Haoming Luo |
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
 | [Aident Loadout](https://aident.ai) | Aident AI |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [CurlShot](https://curlshot.com) | CurlShot |
+| [deed.page](https://deed.page) | Avatar 8 LLC |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
@@ -94,7 +97,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(21)
+## 🎁 Other(26)
 
 > 其他实用 AI 服务
 
@@ -104,14 +107,19 @@
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
 | [Aurcue](https://www.aurcue.com) |  |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
+| [CoverNice](https://covernice.com) | CoverNice |
 | [扣子](https://www.coze.cn/model/arena) |  |
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
+| [ImagineYourBook](https://www.imagineyourbook.com/) | ImagineYourBook |
 | [InnerCanvas](https://innercanvas.app) | InnerCanvas |
 | [kdpbook.io](https://kdpbook.io) | Arsène Huot |
 | [Magic Hour](https://magichour.ai/) | Magic Hour |
+| [NeverApply](https://neverapply.co) |  |
+| [pitchboom.io](https://pitchboom.io) | Arsène Huot |
+| [Pulse](https://pulsecorp.co) | Pulse |
 | [Remio](https://remio.ai/) |  |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
 | [SocialEcho](https://www.socialecho.cn/) | SocialEcho |
@@ -123,7 +131,7 @@
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 <a id="search"></a>
-## 🔍 Search(4)
+## 🔍 Search(5)
 
 > AI 驱动的垂直搜索
 
@@ -131,6 +139,7 @@
 |---|---|
 | [AISO Tools](https://aisotools.com) |  |
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
+| [CodeTrendy](https://codetrendy.com) | CodeTrendy |
 | [Genspark](https://www.genspark.ai/) |  |
 | [IdeaHunter](https://ideahunter.today/) |  |
 
@@ -146,16 +155,18 @@
 | [Devv AI](https://devv.ai/) | Unknown |
 
 <a id="text-to-image"></a>
-## 🎨 Text to Image(6)
+## 🎨 Text to Image(8)
 
 > 文本生成图像
 
 | Name | Creator |
 |---|---|
 | [AI Image Lab](https://aiimagelab.art/) |  |
+| [APPLORE](https://applore.app/ai-app-icon-generator) | APPLORE |
 | [flux](https://flux-ai.io/) |  |
 | [HairWow](https://www.gohairwow.com/) |  |
 | [Lunalisa](https://luna-lisa.art) | Lunalisa |
+| [Pixwit](https://pixwit.ai/) | Pixwit |
 | [Rao Edits](https://raoedits.top/) |  |
 | [Raphael](https://raphael.app) | Raphael AI |
 
