@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-82-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-90-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,12 +16,12 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（5）
-- 🛠️ [Develop Tool](#develop-tool)（21）
+- 🛠️ [Develop Tool](#develop-tool)（22）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（26）
+- 🎁 [Other](#other)（31）
 - 🔍 [Search](#search)（5）
-- 🌐 [Search Engine](#search-engine)（3）
-- 🎨 [Text to Image](#text-to-image)（8）
+- 🌐 [Search Engine](#search-engine)（4）
+- 🎨 [Text to Image](#text-to-image)（9）
 
 
 <a id="chatbot"></a>
@@ -58,7 +58,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(21)
+## 🛠️ Develop Tool(22)
 
 > 面向开发者的效率工具
 
@@ -81,6 +81,7 @@
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [SkillHub](https://skillhub.cn) | 唐可创研 |
+| [SoloPup Memory (public beta)](https://github.com/OakcoderX/solopup-memory) | OakcoderX |
 | [Tale](https://github.com/tale-project/tale) | Tale |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
@@ -97,7 +98,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(26)
+## 🎁 Other(31)
 
 > 其他实用 AI 服务
 
@@ -109,6 +110,8 @@
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
 | [CoverNice](https://covernice.com) | CoverNice |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&amp;utm_medium=github&amp;utm_campaign=LinuxSuRen_awesome-ai) | Dance AI Generator |
+| [DisconfirmAI](https://disconfirmai.com/zh) | DisconfirmAI |
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
@@ -117,15 +120,18 @@
 | [InnerCanvas](https://innercanvas.app) | InnerCanvas |
 | [kdpbook.io](https://kdpbook.io) | Arsène Huot |
 | [Magic Hour](https://magichour.ai/) | Magic Hour |
+| [MeetNewAI](https://meetnewai.com/) | Kai |
 | [NeverApply](https://neverapply.co) |  |
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
 | [Pulse](https://pulsecorp.co) | Pulse |
 | [Remio](https://remio.ai/) |  |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
+| [Seedance Now](https://seedancenow.com/) | Seedance Now |
 | [SocialEcho](https://www.socialecho.cn/) | SocialEcho |
 | [StudyArena](https://studyarena.com) |  |
 | [Telo](https://blynkai.app/telo/) | BlynkAI |
 | [Tudo](https://blynkai.app/tudo/) | BlynkAI |
+| [Vaneform](https://vaneform.com/) | Kai |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
@@ -144,7 +150,7 @@
 | [IdeaHunter](https://ideahunter.today/) |  |
 
 <a id="search-engine"></a>
-## 🌐 Search Engine(3)
+## 🌐 Search Engine(4)
 
 > AI 搜索引擎
 
@@ -153,9 +159,10 @@
 | [AI Hotlist](https://aihot.bt199.com/) | 老实人实验室 |
 | [AI Tools Radar](https://aitoolsradar.com/) | AI Tools Radar |
 | [Devv AI](https://devv.ai/) | Unknown |
+| [FindAIforWork](https://findaiforwork.com) | FindAIforWork |
 
 <a id="text-to-image"></a>
-## 🎨 Text to Image(8)
+## 🎨 Text to Image(9)
 
 > 文本生成图像
 
@@ -166,6 +173,7 @@
 | [flux](https://flux-ai.io/) |  |
 | [HairWow](https://www.gohairwow.com/) |  |
 | [Lunalisa](https://luna-lisa.art) | Lunalisa |
+| [MakeImg](https://makeimg.ai/) | MakeImg |
 | [Pixwit](https://pixwit.ai/) | Pixwit |
 | [Rao Edits](https://raoedits.top/) |  |
 | [Raphael](https://raphael.app) | Raphael AI |
