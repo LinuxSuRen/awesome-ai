@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-90-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-94-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（5）
 - 🛠️ [Develop Tool](#develop-tool)（22）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（31）
+- 🎁 [Other](#other)（35）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -98,7 +98,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(31)
+## 🎁 Other(35)
 
 > 其他实用 AI 服务
 
@@ -107,9 +107,11 @@
 | [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
 | [Aurcue](https://www.aurcue.com) |  |
+| [Barz Studio](https://barzvideo.com/) | Armitage Labs OÜ |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
 | [CoverNice](https://covernice.com) | CoverNice |
 | [扣子](https://www.coze.cn/model/arena) |  |
+| [Cyanvid](https://cyanvid.com/) | Cyanvid |
 | [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&amp;utm_medium=github&amp;utm_campaign=LinuxSuRen_awesome-ai) | Dance AI Generator |
 | [DisconfirmAI](https://disconfirmai.com/zh) | DisconfirmAI |
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
@@ -124,6 +126,7 @@
 | [NeverApply](https://neverapply.co) |  |
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
 | [Pulse](https://pulsecorp.co) | Pulse |
+| [RefVid](https://refvid.com/) | RefVid |
 | [Remio](https://remio.ai/) |  |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
 | [Seedance Now](https://seedancenow.com/) | Seedance Now |
@@ -134,6 +137,7 @@
 | [Vaneform](https://vaneform.com/) | Kai |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
+| [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) | FunCove |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 <a id="search"></a>
