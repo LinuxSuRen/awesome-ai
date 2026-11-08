@@ -47,3 +47,4 @@
 
 1. 在 [data](data) 目录新增一个 YAML 文件（如 `data/my-tool.yaml`），**请勿直接编辑 README.md**
 2. `kind` 请使用现有分类，README 由 [generator workflow](.github/workflows/generator.yaml) 自动重新生成
+3. **收录门槛**：链接须真实可访问；不收录仿冒知名模型名的非官方站点、灰色 API 转售/中转站，详见 [CONTRIBUTING.md](CONTRIBUTING.md#收录条件不符合的-pr-将被拒绝)
