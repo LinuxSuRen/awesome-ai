@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-94-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-95-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（5）
 - 🛠️ [Develop Tool](#develop-tool)（22）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（35）
+- 🎁 [Other](#other)（36）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -98,7 +98,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(35)
+## 🎁 Other(36)
 
 > 其他实用 AI 服务
 
@@ -137,6 +137,7 @@
 | [Vaneform](https://vaneform.com/) | Kai |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
+| [Vidney](https://vidney.ai/) |  |
 | [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) | FunCove |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
