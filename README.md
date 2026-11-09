@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-99-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-100-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（22）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（39）
+- 🎁 [Other](#other)（40）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -99,7 +99,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(39)
+## 🎁 Other(40)
 
 > 其他实用 AI 服务
 
@@ -130,6 +130,7 @@
 | [objekto.io](https://objekto.io/en) | Arsène Huot |
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
 | [Pulse](https://pulsecorp.co) | Pulse |
+| [ReelAI](https://tryreelai.com/) |  |
 | [RefVid](https://refvid.com/) | RefVid |
 | [Remio](https://remio.ai/) |  |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
