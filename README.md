@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-95-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-99-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -15,10 +15,10 @@
 
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
-- 🧑‍💻 [CodeAssistant](#codeassistant)（5）
+- 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（22）
 - 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（36）
+- 🎁 [Other](#other)（39）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -45,7 +45,7 @@
 | [跃问](https://yuewen.cn/chats/) | 阶跃星辰 |
 
 <a id="codeassistant"></a>
-## 🧑‍💻 CodeAssistant(5)
+## 🧑‍💻 CodeAssistant(6)
 
 > AI 编程助手与代码补全
 
@@ -53,6 +53,7 @@
 |---|---|
 | [Amazon Q](https://www.amazon.com/q/) | Amazon |
 | [Copilot](https://github.com/features/copilot) | GitHub |
+| [Imagera Code](https://imagera.ai/code) | Imagera |
 | [Orbi](https://orbi.build/?ref=dir-linuxsuren) | orbi-build |
 | [腾讯云 AI 代码助手](https://cloud.tencent.com/product/acc) | Tencent |
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
@@ -98,7 +99,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(36)
+## 🎁 Other(39)
 
 > 其他实用 AI 服务
 
@@ -115,15 +116,18 @@
 | [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&amp;utm_medium=github&amp;utm_campaign=LinuxSuRen_awesome-ai) | Dance AI Generator |
 | [DisconfirmAI](https://disconfirmai.com/zh) | DisconfirmAI |
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
+| [EarlyLore](https://earlylore.com/) | Kai |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
+| [Imagera](https://imagera.ai/) | Imagera |
 | [ImagineYourBook](https://www.imagineyourbook.com/) | ImagineYourBook |
 | [InnerCanvas](https://innercanvas.app) | InnerCanvas |
 | [kdpbook.io](https://kdpbook.io) | Arsène Huot |
 | [Magic Hour](https://magichour.ai/) | Magic Hour |
 | [MeetNewAI](https://meetnewai.com/) | Kai |
 | [NeverApply](https://neverapply.co) |  |
+| [objekto.io](https://objekto.io/en) | Arsène Huot |
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
 | [Pulse](https://pulsecorp.co) | Pulse |
 | [RefVid](https://refvid.com/) | RefVid |
