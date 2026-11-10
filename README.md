@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-100-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-105-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（22）
-- 🏠 [Local](#local)（2）
-- 🎁 [Other](#other)（40）
+- 🛠️ [Develop Tool](#develop-tool)（23）
+- 🏠 [Local](#local)（3）
+- 🎁 [Other](#other)（43）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(22)
+## 🛠️ Develop Tool(23)
 
 > 面向开发者的效率工具
 
@@ -83,23 +83,25 @@
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
 | [SkillHub](https://skillhub.cn) | 唐可创研 |
 | [SoloPup Memory (public beta)](https://github.com/OakcoderX/solopup-memory) | OakcoderX |
+| [System One API](https://system-one.dev/en) | System One |
 | [Tale](https://github.com/tale-project/tale) | Tale |
 | [Xquik](https://docs.xquik.com/) | Xquik |
 | [YingTu](https://yingtu.ai/en) | YingTu |
 | [YYLO](https://github.com/yylo-dev/yylo) | yylo-dev |
 
 <a id="local"></a>
-## 🏠 Local(2)
+## 🏠 Local(3)
 
 > 本地部署与私有化运行
 
 | Name | Creator |
 |---|---|
+| [ClapClip Transcript](https://www.clapclip.net/transcript) | ClapClip |
 | [Ollama](https://github.com/ollama/ollama) | Unknown |
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(40)
+## 🎁 Other(43)
 
 > 其他实用 AI 服务
 
@@ -107,9 +109,11 @@
 |---|---|
 | [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
+| [artgen](https://artgen.net/en/tools/image-to-pixel-art) | artgen |
 | [Aurcue](https://www.aurcue.com) |  |
 | [Barz Studio](https://barzvideo.com/) | Armitage Labs OÜ |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
+| [CookLLM](https://cookllm.com/en/jobs/match) | Harry Fu |
 | [CoverNice](https://covernice.com) | CoverNice |
 | [扣子](https://www.coze.cn/model/arena) |  |
 | [Cyanvid](https://cyanvid.com/) | Cyanvid |
@@ -117,6 +121,7 @@
 | [DisconfirmAI](https://disconfirmai.com/zh) | DisconfirmAI |
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
 | [EarlyLore](https://earlylore.com/) | Kai |
+| [EasySociable](https://easysociable.com/?utm_source=linuxsuren-awesome-ai&amp;utm_medium=directory&amp;utm_campaign=backlinks) | EasySociable |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
