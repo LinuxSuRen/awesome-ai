@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-105-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-109-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（23）
+- 🛠️ [Develop Tool](#develop-tool)（24）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（43）
+- 🎁 [Other](#other)（46）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(23)
+## 🛠️ Develop Tool(24)
 
 > 面向开发者的效率工具
 
@@ -71,6 +71,7 @@
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
 | [Aident Loadout](https://aident.ai) | Aident AI |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
+| [CloudGPU](https://cloudgpu.app) | CloudGPU |
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [CurlShot](https://curlshot.com) | CurlShot |
 | [deed.page](https://deed.page) | Avatar 8 LLC |
@@ -101,7 +102,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(43)
+## 🎁 Other(46)
 
 > 其他实用 AI 服务
 
@@ -109,6 +110,7 @@
 |---|---|
 | [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
+| [AppScreen](https://appscreen.pro) | Intenseloop |
 | [artgen](https://artgen.net/en/tools/image-to-pixel-art) | artgen |
 | [Aurcue](https://www.aurcue.com) |  |
 | [Barz Studio](https://barzvideo.com/) | Armitage Labs OÜ |
@@ -122,6 +124,7 @@
 | [Doc2X](https://doc2x.noedgeai.com/) | NoEdgeAI |
 | [EarlyLore](https://earlylore.com/) | Kai |
 | [EasySociable](https://easysociable.com/?utm_source=linuxsuren-awesome-ai&amp;utm_medium=directory&amp;utm_campaign=backlinks) | EasySociable |
+| [FaceRater](https://facerater.io/) |  |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
@@ -134,6 +137,7 @@
 | [NeverApply](https://neverapply.co) |  |
 | [objekto.io](https://objekto.io/en) | Arsène Huot |
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
+| [Prompt Generator](https://trypromptgenerator.com) | Nick Launches |
 | [Pulse](https://pulsecorp.co) | Pulse |
 | [ReelAI](https://tryreelai.com/) |  |
 | [RefVid](https://refvid.com/) | RefVid |
