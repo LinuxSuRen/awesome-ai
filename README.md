@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-109-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-110-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（24）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（46）
+- 🎁 [Other](#other)（47）
 - 🔍 [Search](#search)（5）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -102,7 +102,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(46)
+## 🎁 Other(47)
 
 > 其他实用 AI 服务
 
@@ -126,6 +126,7 @@
 | [EasySociable](https://easysociable.com/?utm_source=linuxsuren-awesome-ai&amp;utm_medium=directory&amp;utm_campaign=backlinks) | EasySociable |
 | [FaceRater](https://facerater.io/) |  |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com) | GetYouTubeTranscript |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
 | [Imagera](https://imagera.ai/) | Imagera |
