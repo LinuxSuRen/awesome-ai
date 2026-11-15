@@ -117,7 +117,7 @@
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
 | [CookLLM](https://cookllm.com/en/jobs/match) | Harry Fu |
 | [CoverNice](https://covernice.com) | CoverNice |
-| [扣子](https://www.coze.cn/model/arena) |  |
+| [扣子](https://www.coze.cn/) |  |
 | [Cyanvid](https://cyanvid.com/) | Cyanvid |
 | [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&amp;utm_medium=github&amp;utm_campaign=LinuxSuRen_awesome-ai) | Dance AI Generator |
 | [DisconfirmAI](https://disconfirmai.com/zh) | DisconfirmAI |
