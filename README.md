@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-110-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-113-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,10 +16,10 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（24）
+- 🛠️ [Develop Tool](#develop-tool)（25）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（47）
-- 🔍 [Search](#search)（5）
+- 🎁 [Other](#other)（48）
+- 🔍 [Search](#search)（6）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
 
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(24)
+## 🛠️ Develop Tool(25)
 
 > 面向开发者的效率工具
 
@@ -78,6 +78,7 @@
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
+| [No Stairs Please](https://nostairsplease.com/mcp) | No Stairs Please |
 | [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio |
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
@@ -102,7 +103,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(47)
+## 🎁 Other(48)
 
 > 其他实用 AI 服务
 
@@ -149,6 +150,7 @@
 | [StudyArena](https://studyarena.com) |  |
 | [Telo](https://blynkai.app/telo/) | BlynkAI |
 | [Tudo](https://blynkai.app/tudo/) | BlynkAI |
+| [Twistavo](https://twistavo.com/) | AZERIA IT |
 | [Vaneform](https://vaneform.com/) | Kai |
 | [Vedic Astrology Chart](https://vedicastrologychart.net) |  |
 | [Video Upscaler](https://videoupscaler.video) |  |
@@ -157,7 +159,7 @@
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 <a id="search"></a>
-## 🔍 Search(5)
+## 🔍 Search(6)
 
 > AI 驱动的垂直搜索
 
@@ -166,6 +168,7 @@
 | [AISO Tools](https://aisotools.com) |  |
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
 | [CodeTrendy](https://codetrendy.com) | CodeTrendy |
+| [Enhanciar](https://enhanciar.in) | Enhanciar |
 | [Genspark](https://www.genspark.ai/) |  |
 | [IdeaHunter](https://ideahunter.today/) |  |
 
