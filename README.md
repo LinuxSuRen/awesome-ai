@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-114-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-115-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,7 +16,7 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（25）
+- 🛠️ [Develop Tool](#develop-tool)（26）
 - 🏠 [Local](#local)（3）
 - 🎁 [Other](#other)（49）
 - 🔍 [Search](#search)（6）
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(25)
+## 🛠️ Develop Tool(26)
 
 > 面向开发者的效率工具
 
@@ -78,6 +78,7 @@
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
+| [MoeRouter](https://moerouter.com/) | NOEDGEAI LIMITED |
 | [No Stairs Please](https://nostairsplease.com/mcp) | No Stairs Please |
 | [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio |
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
