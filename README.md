@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-115-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-119-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,8 +18,8 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（26）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（49）
-- 🔍 [Search](#search)（6）
+- 🎁 [Other](#other)（52）
+- 🔍 [Search](#search)（7）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
 
@@ -104,7 +104,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(49)
+## 🎁 Other(52)
 
 > 其他实用 AI 服务
 
@@ -128,6 +128,7 @@
 | [EasySociable](https://easysociable.com/?utm_source=linuxsuren-awesome-ai&amp;utm_medium=directory&amp;utm_campaign=backlinks) | EasySociable |
 | [FaceRater](https://facerater.io/) |  |
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
+| [Frank AI Researcher](https://www.hifrank.ai/) | hifrank (Prelaunch Group, Inc.) |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com) | GetYouTubeTranscript |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
@@ -150,6 +151,7 @@
 | [Seedance Now](https://seedancenow.com/) | Seedance Now |
 | [SocialEcho](https://www.socialecho.cn/) | SocialEcho |
 | [StudyArena](https://studyarena.com) |  |
+| [TattooTryOn](https://tattootryon.app/) | Harry Fu |
 | [Telo](https://blynkai.app/telo/) | BlynkAI |
 | [Tudo](https://blynkai.app/tudo/) | BlynkAI |
 | [Twistavo](https://twistavo.com/) | AZERIA IT |
@@ -158,10 +160,11 @@
 | [Video Upscaler](https://videoupscaler.video) |  |
 | [Vidney](https://vidney.ai/) |  |
 | [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) | FunCove |
+| [Wavegrain](https://wavegrain.com/) | Wavegrain |
 | [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) |  |
 
 <a id="search"></a>
-## 🔍 Search(6)
+## 🔍 Search(7)
 
 > AI 驱动的垂直搜索
 
@@ -169,6 +172,7 @@
 |---|---|
 | [AISO Tools](https://aisotools.com) |  |
 | [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) |  |
+| [CheapCarRent Search](https://cheapcarent.com/developers) | CheapCarRent |
 | [CodeTrendy](https://codetrendy.com) | CodeTrendy |
 | [Enhanciar](https://enhanciar.in) | Enhanciar |
 | [Genspark](https://www.genspark.ai/) |  |
