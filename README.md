@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-120-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-121-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（26）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（53）
+- 🎁 [Other](#other)（54）
 - 🔍 [Search](#search)（7）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（9）
@@ -104,7 +104,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(53)
+## 🎁 Other(54)
 
 > 其他实用 AI 服务
 
@@ -117,6 +117,7 @@
 | [Aurcue](https://www.aurcue.com) |  |
 | [Barz Studio](https://barzvideo.com/) | Armitage Labs OÜ |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
+| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Prax9 |
 | [Cloud Alter Ego](https://cloudalterego.cafeboon.com) | Cafe Boon |
 | [CookLLM](https://cookllm.com/en/jobs/match) | Harry Fu |
 | [CoverNice](https://covernice.com) | CoverNice |
