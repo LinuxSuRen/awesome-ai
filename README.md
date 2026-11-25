@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-121-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-128-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,12 +16,12 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（26）
+- 🛠️ [Develop Tool](#develop-tool)（28）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（54）
+- 🎁 [Other](#other)（57）
 - 🔍 [Search](#search)（7）
 - 🌐 [Search Engine](#search-engine)（4）
-- 🎨 [Text to Image](#text-to-image)（9）
+- 🎨 [Text to Image](#text-to-image)（11）
 
 
 <a id="chatbot"></a>
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(26)
+## 🛠️ Develop Tool(28)
 
 > 面向开发者的效率工具
 
@@ -70,11 +70,13 @@
 | [ai-commit](https://github.com/insulineru/ai-commit) |  |
 | [aicommits](https://github.com/Nutlope/aicommits) |  |
 | [Aident Loadout](https://aident.ai) | Aident AI |
+| [Apidly Cloud](https://apidly.com) | Apidly |
 | [Better Agent](https://github.com/ofekron/better-agent) |  |
 | [CloudGPU](https://cloudgpu.app) | CloudGPU |
 | [CoderPlan](https://coderplan.ai) | CoderPlan |
 | [CurlShot](https://curlshot.com) | CurlShot |
 | [deed.page](https://deed.page) | Avatar 8 LLC |
+| [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | Jang Trịnh |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
@@ -104,7 +106,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(54)
+## 🎁 Other(57)
 
 > 其他实用 AI 服务
 
@@ -138,6 +140,7 @@
 | [ImagineYourBook](https://www.imagineyourbook.com/) | ImagineYourBook |
 | [InnerCanvas](https://innercanvas.app) | InnerCanvas |
 | [kdpbook.io](https://kdpbook.io) | Arsène Huot |
+| [LyricFast](https://lyricfast.com/) | Cody |
 | [Magic Hour](https://magichour.ai/) | Magic Hour |
 | [MeetNewAI](https://meetnewai.com/) | Kai |
 | [NeverApply](https://neverapply.co) |  |
@@ -147,8 +150,10 @@
 | [Pulse](https://pulsecorp.co) | Pulse |
 | [ReelAI](https://tryreelai.com/) |  |
 | [RefVid](https://refvid.com/) | RefVid |
+| [RemakeThat](https://remakethat.com/) | RemakeThat |
 | [Remio](https://remio.ai/) |  |
 | [Room Meadow](https://roommeadow.com/ai-room-redesign) |  |
+| [SameMuse](https://samemuse.com/) | Cody |
 | [Screenpipe](https://screenpipe.com/) | Screenpipe |
 | [Seedance Now](https://seedancenow.com/) | Seedance Now |
 | [SocialEcho](https://www.socialecho.cn/) | SocialEcho |
@@ -193,18 +198,20 @@
 | [FindAIforWork](https://findaiforwork.com) | FindAIforWork |
 
 <a id="text-to-image"></a>
-## 🎨 Text to Image(9)
+## 🎨 Text to Image(11)
 
 > 文本生成图像
 
 | Name | Creator |
 |---|---|
 | [AI Image Lab](https://aiimagelab.art/) |  |
+| [AI Jewelry Model](https://aijewelrymodel.app/) | Cody |
 | [APPLORE](https://applore.app/ai-app-icon-generator) | APPLORE |
 | [flux](https://flux-ai.io/) |  |
 | [HairWow](https://www.gohairwow.com/) |  |
 | [Lunalisa](https://luna-lisa.art) | Lunalisa |
 | [MakeImg](https://makeimg.ai/) | MakeImg |
+| [ModelSnap](https://modelsnap.app/) | Cody |
 | [Pixwit](https://pixwit.ai/) | Pixwit |
 | [Rao Edits](https://raoedits.top/) |  |
 | [Raphael](https://raphael.app) | Raphael AI |
