@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-128-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-130-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
 - 🛠️ [Develop Tool](#develop-tool)（28）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（57）
+- 🎁 [Other](#other)（59）
 - 🔍 [Search](#search)（7）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（11）
@@ -106,7 +106,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(57)
+## 🎁 Other(59)
 
 > 其他实用 AI 服务
 
@@ -119,6 +119,7 @@
 | [Aurcue](https://www.aurcue.com) |  |
 | [Barz Studio](https://barzvideo.com/) | Armitage Labs OÜ |
 | [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Azeem Kafridi |
+| [Car Listing Check MCP](https://aicarvideo.com/mcp/) | ST-Automatisierung |
 | [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Prax9 |
 | [Cloud Alter Ego](https://cloudalterego.cafeboon.com) | Cafe Boon |
 | [CookLLM](https://cookllm.com/en/jobs/match) | Harry Fu |
@@ -134,6 +135,7 @@
 | [FalcoScan](https://falcoscan.com) | FalcoScan |
 | [Frank AI Researcher](https://www.hifrank.ai/) | hifrank (Prelaunch Group, Inc.) |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com) | GetYouTubeTranscript |
+| [Headshot Photo Check MCP](https://www.profilfoto-ki.de/mcp) | ST-Automatisierung |
 | [Hellomatik](https://hellomatik.com) | Hellomatik |
 | [Image Describer](https://imagedescriber.dev) |  |
 | [Imagera](https://imagera.ai/) | Imagera |
