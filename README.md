@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-ai?style=flat-square)](https://github.com/LinuxSuRen/awesome-ai/commits)
-[![Tools](https://img.shields.io/badge/tools-130-blue?style=flat-square)](#目录)
+[![Tools](https://img.shields.io/badge/tools-133-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -16,9 +16,9 @@
 ## 目录
 - 💬 [Chatbot](#chatbot)（12）
 - 🧑‍💻 [CodeAssistant](#codeassistant)（6）
-- 🛠️ [Develop Tool](#develop-tool)（28）
+- 🛠️ [Develop Tool](#develop-tool)（29）
 - 🏠 [Local](#local)（3）
-- 🎁 [Other](#other)（59）
+- 🎁 [Other](#other)（61）
 - 🔍 [Search](#search)（7）
 - 🌐 [Search Engine](#search-engine)（4）
 - 🎨 [Text to Image](#text-to-image)（11）
@@ -59,7 +59,7 @@
 | [通义灵码](https://www.tongyilingma.com/) | 阿里云 |
 
 <a id="develop-tool"></a>
-## 🛠️ Develop Tool(28)
+## 🛠️ Develop Tool(29)
 
 > 面向开发者的效率工具
 
@@ -77,6 +77,7 @@
 | [CurlShot](https://curlshot.com) | CurlShot |
 | [deed.page](https://deed.page) | Avatar 8 LLC |
 | [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | Jang Trịnh |
+| [Kite](https://kite.new) | Kite |
 | [Listen Hub](https://listenhub.ai/zh/app/home) |  |
 | [looot](https://looot.ai) | looot |
 | [码思Code](https://www.marscode.cn/) |  |
@@ -106,7 +107,7 @@
 | [rust-norion](https://github.com/yanghao1143/rust-norion) | yanghao1143 |
 
 <a id="other"></a>
-## 🎁 Other(59)
+## 🎁 Other(61)
 
 > 其他实用 AI 服务
 
@@ -114,6 +115,7 @@
 |---|---|
 | [AI Face Shape Detector](https://aifaceshapedetector.net/) | AI Face Shape Detector |
 | [AIImageChanger.app](https://aiimagechanger.app/) |  |
+| [AlphaOSINT YouTube Transcripts](https://apify.com/johnvc/youtubetranscripts) | AlphaOSINT |
 | [AppScreen](https://appscreen.pro) | Intenseloop |
 | [artgen](https://artgen.net/en/tools/image-to-pixel-art) | artgen |
 | [Aurcue](https://www.aurcue.com) |  |
@@ -150,6 +152,7 @@
 | [pitchboom.io](https://pitchboom.io) | Arsène Huot |
 | [Prompt Generator](https://trypromptgenerator.com) | Nick Launches |
 | [Pulse](https://pulsecorp.co) | Pulse |
+| [QuestionPunk](https://www.questionpunk.com/) | QuestionPunk |
 | [ReelAI](https://tryreelai.com/) |  |
 | [RefVid](https://refvid.com/) | RefVid |
 | [RemakeThat](https://remakethat.com/) | RemakeThat |
