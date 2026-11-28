@@ -87,7 +87,6 @@
 | [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) |  |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | Orkas-AI |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker |
-| [Santa Visit Video](https://santavisitvideo.com/) | Santa Visit Video |
 | [SkillHub](https://skillhub.cn) | 唐可创研 |
 | [SoloPup Memory (public beta)](https://github.com/OakcoderX/solopup-memory) | OakcoderX |
 | [System One API](https://system-one.dev/en) | System One |
